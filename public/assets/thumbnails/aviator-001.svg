@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" role="img" aria-label="Aviator 001">
+<rect width="300" height="150" rx="18" fill="#211a0f"/>
+<g fill="none" stroke="#d9a441" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M54 72 C58 42 86 28 124 34 C150 38 158 57 156 77 C153 101 138 116 111 117 C84 118 60 102 54 72 Z"/><path d="M246 72 C242 42 214 28 176 34 C150 38 142 57 144 77 C147 101 162 116 189 117 C216 118 240 102 246 72 Z"/><path d="M154 55 C150 48 145 46 139 46 C133 46 128 48 124 55"/><path d="M55 56 L18 50 M245 56 L282 50 M124 45 L156 45"/></g>
+<text x="150" y="140" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="700">Aviator 001</text>
+</svg>

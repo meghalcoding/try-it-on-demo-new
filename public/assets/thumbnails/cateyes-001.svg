@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" role="img" aria-label="Cat-Eye 001">
+<rect width="300" height="150" rx="18" fill="#252525"/>
+<g fill="none" stroke="#d8d8d8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M48 66 C57 42 78 30 119 35 C143 38 151 54 150 76 C147 100 129 110 101 107 C74 104 56 91 48 66 Z"/><path d="M252 66 C243 42 222 30 181 35 C157 38 149 54 150 76 C153 100 171 110 199 107 C226 104 244 91 252 66 Z"/><path d="M150 53 C144 47 139 46 133 46 C127 46 122 47 118 53"/><path d="M48 65 L15 48 M252 65 L285 48"/></g>
+<text x="150" y="140" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="700">Cat-Eye 001</text>
+</svg>

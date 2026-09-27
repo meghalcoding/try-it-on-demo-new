@@ -1,0 +1,78 @@
+[
+  {
+    "id": "aviator-001",
+    "name": "Aviator 001",
+    "price": 0,
+    "currency": "USD",
+    "thumbnail": "/assets/thumbnails/aviator-001.svg",
+    "model": "/assets/models/aviator-001.glb",
+    "color": "Gold",
+    "size": "Standard",
+    "calibration": {
+      "scale": 1.0442,
+      "x": 0,
+      "y": -1.12,
+      "z": 0.84,
+      "rotationX": 0.147,
+      "rotationY": 0,
+      "rotationZ": 0
+    }
+  },
+  {
+    "id": "cateyes-001",
+    "name": "Cat-Eye 001",
+    "price": 0,
+    "currency": "USD",
+    "thumbnail": "/assets/thumbnails/cateyes-001.svg",
+    "model": "/assets/models/cateyes-001.glb",
+    "color": "White / Black",
+    "size": "Standard",
+    "calibration": {
+      "scale": 9.46871,
+      "x": -0.14,
+      "y": -0.14,
+      "z": 4.48,
+      "rotationX": 0.035,
+      "rotationY": 0,
+      "rotationZ": 0.007
+    }
+  },
+  {
+    "id": "circular-002",
+    "name": "Circular 002",
+    "price": 0,
+    "currency": "USD",
+    "thumbnail": "/assets/thumbnails/circular-002.svg",
+    "model": "/assets/models/circular-002.glb",
+    "color": "Gold / Pink",
+    "size": "Standard",
+    "calibration": {
+      "scale": 10.3946,
+      "x": -0.0072,
+      "y": 0.42,
+      "z": 4.06,
+      "rotationX": 0.091,
+      "rotationY": 0,
+      "rotationZ": 0
+    }
+  },
+  {
+    "id": "rectangle-001",
+    "name": "Rectangle 001",
+    "price": 0,
+    "currency": "USD",
+    "thumbnail": "/assets/thumbnails/rectangle-001.svg",
+    "model": "/assets/models/rectangle-001.glb",
+    "color": "Black",
+    "size": "Standard",
+    "calibration": {
+      "scale": 9.68101,
+      "x": -0.28,
+      "y": -0.14,
+      "z": 3.08,
+      "rotationX": 0.23,
+      "rotationY": 0,
+      "rotationZ": 0
+    }
+  }
+]

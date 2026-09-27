@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" role="img" aria-label="Rectangle 001">
+<rect width="300" height="150" rx="18" fill="#e8e8e8"/>
+<g fill="none" stroke="#171717" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="39" y="36" width="103" height="78" rx="18"/><rect x="158" y="36" width="103" height="78" rx="18"/><path d="M142 55 C148 48 152 48 158 55"/><path d="M39 57 L13 50 M261 57 L287 50"/></g>
+<text x="150" y="140" text-anchor="middle" fill="#111" font-family="Arial, sans-serif" font-size="12" font-weight="700">Rectangle 001</text>
+</svg>

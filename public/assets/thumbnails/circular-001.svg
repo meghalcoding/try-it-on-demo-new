@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" role="img" aria-label="Circular 001">
+<rect width="300" height="150" rx="18" fill="#171a1f"/>
+<g fill="none" stroke="#c9cdd3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><circle cx="91" cy="75" r="51"/><circle cx="209" cy="75" r="51"/><path d="M142 63 C146 55 154 55 158 63"/><path d="M40 61 L14 52 M260 61 L286 52"/></g>
+<text x="150" y="140" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="700">Circular 001</text>
+</svg>
